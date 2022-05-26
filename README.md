@@ -2,7 +2,7 @@
 
 **_NextJS_**
 
-_[Design From Youtube](youtube.com/watch?v=atebfXx|9B4&t=432s)_
+_[Design From Youtube](https://www.youtube.com/watch?v=atebfXxl9B4&t=2181s&ab_channel=BackbenchCoder)_
 
 ### NextJS Feature
 
