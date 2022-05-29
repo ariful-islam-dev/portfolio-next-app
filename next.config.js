@@ -5,7 +5,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    domains: ["ariful-islam66.web.app"],
+    domains: ["ariful-islam66.web.app", "i.ibb.co"],
   },
 }
 
